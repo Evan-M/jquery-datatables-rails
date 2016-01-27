@@ -21,5 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency "sass-rails"
   s.add_dependency 'railties',   '>= 3.1'
   s.add_dependency 'actionpack', '>= 3.1'
+  s.add_dependency 'momentjs-rails', '>= 2.7.0'
   s.add_development_dependency 'rake'
 end
